@@ -1,7 +1,12 @@
 Don't Forget - Subscription and Payment Manager
 
+
+YOUTUBE LINK - https://youtube.com/shorts/kXr5zwxpYuk
+
 Don't Forget is a user-friendly mobile application designed to help you effortlessly manage all your upcoming payments and recurring subscriptions. 
 Keep track of what's due, when it's due, and how much it costs, all in one place.
+
+
  Key Features
  * Secure Login: Easy sign-in/sign-up process to keep your data safe.
  * Upcoming Payments: Clearly view payments that are due soon.
@@ -9,8 +14,13 @@ Keep track of what's due, when it's due, and how much it costs, all in one place
  * Easy Editing: Quickly update the details of any saved item (Name, Amount, Category).
  * Categorization: Categorize your payments with popular providers (e.g., Netflix, Spotify, Gym) for better organization.
  * Multi-Language Support: Supports English, Afrikaans, Zulu, and Sesotho.
+
+   
  *Achievement System: Track your progress with in-app achievements (e.g., Subscription Starter, Subscription Collector).
+ 
  *Reminders: Optional reminder functionality to help you never miss a payment.
+
+ 
 Getting Started
 Follow these steps to start managing your payments with "Don't Forget":
 1. Account Setup
@@ -39,3 +49,8 @@ The Settings tab allows you to customize your experience:
  * Logout: Securely log out of your account.
  * Language Selection: Access this by tapping the language/translation icon 'A' on the home screen to switch between supported languages.
 
+ANDROID STUDIO (KOTLIN + JAVA)
+LOCAL STORAGE PostgreSQL
+
+Dont forget helps users maintain finanicals focus and dicipline knowing they can stay updated with all their subscriptions or due payments
+by ssimply accessing the up. 
